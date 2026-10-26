@@ -18,3 +18,7 @@ When writing or modifying tests, configuring `hardhat.config.ts`, or interacting
 
 - Hardhat 3 — https://hardhat.org/llms.txt
 - viem — https://viem.sh/llms.txt
+
+## Prompt documentation
+
+Update promptsused.md with every prompt you receive. Only include the original prompt and not your answer.
